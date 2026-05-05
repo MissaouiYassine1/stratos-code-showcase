@@ -1,0 +1,15 @@
+# robots.txt pour MonEntreprise
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://monentreprise.com/sitemap.xml
+
+# Délai de crawl
+Crawl-delay: 10
+
+# Exclusion des paramètres inutiles
+Disallow: /*?*
+Disallow: /api/
+Disallow: /_next/
+Disallow: /_vercel/
