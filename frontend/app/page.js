@@ -47,6 +47,29 @@ export default function Home() {
           </div>
         </div>
       </section>
+      {/* Chiffres clés */}
+      <section className="bg-light py-5">
+        <div className="container">
+          <div className="row text-center g-4">
+            <div className="col-md-3">
+              <h3 className="display-4 fw-bold text-primary">100+</h3>
+              <p className="text-muted">Clients satisfaits</p>
+            </div>
+            <div className="col-md-3">
+              <h3 className="display-4 fw-bold text-primary">50+</h3>
+              <p className="text-muted">Projets réalisés</p>
+            </div>
+            <div className="col-md-3">
+              <h3 className="display-4 fw-bold text-primary">10+</h3>
+              <p className="text-muted">Experts dédiés</p>
+            </div>
+            <div className="col-md-3">
+              <h3 className="display-4 fw-bold text-primary">5 ans</h3>
+              <p className="text-muted">D'expérience</p>
+            </div>
+          </div>
+        </div>
+      </section>
       <Footer />
     </>
   )
