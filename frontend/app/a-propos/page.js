@@ -83,7 +83,7 @@ export default function AboutPage() {
             <div className="col-md-4">
               <div className="team-card">
                 <Image 
-                  src="/images/team1.jpg" 
+                  src="/images/Jean Dupont.png" 
                   alt="Membre de l'équipe"
                   width={400}
                   height={300}
@@ -99,7 +99,7 @@ export default function AboutPage() {
             <div className="col-md-4">
               <div className="team-card">
                 <Image 
-                  src="/images/team2.jpg" 
+                  src="/images/Marie Martin.png" 
                   alt="Membre de l'équipe"
                   width={400}
                   height={300}
@@ -115,7 +115,7 @@ export default function AboutPage() {
             <div className="col-md-4">
               <div className="team-card">
                 <Image 
-                  src="/images/team3.jpg" 
+                  src="/images/Sophie Bernard.png" 
                   alt="Membre de l'équipe"
                   width={400}
                   height={300}
